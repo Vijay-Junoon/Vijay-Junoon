@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/vijay-developer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  [<img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="30"/>](www.linkedin.com/in/vijay-developer/)
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
