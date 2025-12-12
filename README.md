@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-developer/)
 <div align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-developer/)
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
