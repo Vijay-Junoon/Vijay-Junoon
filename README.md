@@ -1,96 +1,68 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi there 👋, I'm Vijay
 
-###
+🎓 Final Year Computer Science Student  
+🤖 Machine Learning Enthusiast |  💻 Front-End Developer 
+🚀 Passionate about building real-world projects using Machine Learning and Web Technologies.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vijay-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-    <a href="vijay262005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&color=white" alt="Gmail Badge"></a>
+---
 
-</div>
+## 🚀 About Me
+- 🌱 Currently learning **MERN Stack & Machine Learning**
+- 🤖 Interested in **Data Analysis, Data Preprocessing, Model Training, and Predictive Systems**
+- 💻 Front-End enthusiast focused on creating responsive and user-friendly interfaces
+- 🔨 Building projects involving **Machine Learning, Python, Tkinter, and Web Development**
+- 📚 Continuously improving **DSA, System Design basics, and Full Stack Development**
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vijay-Junoon"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h1 align="center">Hey there 👋</h1>
+### Front-End Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-###
+### Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 
-<h3 align="left">👩‍💻  About Me</h3>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+---
 
-<p align="left">I'm VIjay, from Hyderabad, India.<br><br>- 🔭 I’m a student persuing my bachelors in technology in Sreyas Institute of Engineering and Technology.<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time I like to create front end focused websites and play computer games.</p>
+## 📌 Featured Projects
 
-###
+### 🤖 Machine Learning Projects
+- **Loan Approval Prediction System**
+- **Heart Disease Prediction System**
 
-<h3 align="center">🌐 Visit My Portfolio</h3>
+### 🌐 Web Development Projects
+- **College Companion** – College community portal and smart study planner
+- **No Strings Attached** – Free online tools platform
 
-<p align="center">
-  <a href="https://vijay-dev-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" /></a>
-</p>
+---
 
-###
+## 📈 Currently Working On
+- MERN Stack Development  
+- Machine Learning Projects  
+- Data Structures & Algorithms  
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: www.linkedin.com/in/vijay-developer
+- Leetcode: https://leetcode.com/u/artist_Promethrus/
+---
 
-<div align="center">
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" alt = "c logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt ="java logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="python logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" alt="html logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" alt="css logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"height="60" alt="php logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="60" alt="figma logo"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60" alt="canva logo"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" alt="github logo" />
-          
-          
-
-
-</div>
-
-<br>
-<br>
-<br>
-
-###
-
-<h3>My Stats: </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay-Junoon&show_icons=true" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?username=Vijay-Junoon" />
-</p> -->
-
-###
-
-
-
-###
+⭐ *Always learning, always building.*
